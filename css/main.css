@@ -1,0 +1,17 @@
+body {
+	text-align: center;
+	/*background:url ("img/astro.jpg");*/
+background: url("../img/horo.jpg") no-repeat;
+width: 100%;	 
+}
+
+#demo{
+	color:white;
+}
+
+
+
+#main {
+	color: red;
+	text-align :center;
+}
